@@ -27,5 +27,5 @@ if (true) {
     console.log(profesor); //"the flash"
     console.log(teacher);  //"reverse flash"
 }
-console.log(profesor); 
+console.log(profesor); // "the flash"
 console.log(teacher); //"jose"
